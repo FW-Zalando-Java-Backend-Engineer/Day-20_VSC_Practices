@@ -133,9 +133,13 @@ target/
 ## **🎯 Exercises**
 
 ✅ Create a Java app with a custom quote
+
 ✅ Create a GitHub repo manually
+
 ✅ Push the app using Git remote add (no clone)
+
 ✅ Simulate remote changes and fetch/merge locally
+
 ✅ Add `.gitignore` and `README.md`
 
 ---
