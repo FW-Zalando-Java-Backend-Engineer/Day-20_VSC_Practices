@@ -87,7 +87,7 @@ git push
 ## **📁 Recommended Structure for README in Your Repo**
 
 ```
-# 📘 Day-20: Quote Logger
+# 📘 Quote Logger
 
 ## ✅ Goals
 - Learn end-to-end GitHub repo setup
